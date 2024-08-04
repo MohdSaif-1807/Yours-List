@@ -71,40 +71,64 @@ To get started with **Yours List**, follow these steps:
 ## UI Images
 
 1. Registration page:
+   
    ![image](https://github.com/user-attachments/assets/0f7d5268-5dd2-4f63-a779-6cc7aaebc055)
 
+
 2. Login page:
+   
    ![image](https://github.com/user-attachments/assets/88c28cec-a636-4ab7-8f7b-ac668e467f75)
 
+
 3. Your-List(Normal user) homepage:
-   ![image](https://github.com/user-attachments/assets/258176fd-13a5-4417-a08c-21333c7e776a)
+
+    ![image](https://github.com/user-attachments/assets/258176fd-13a5-4417-a08c-21333c7e776a)
+
 
 4. Category creation (Normal user):
+ 
    ![image](https://github.com/user-attachments/assets/842b9de2-991e-42a7-83ef-3db57a2b5abf)
 
+
 5. Category created (Normal user):
+ 
    ![image](https://github.com/user-attachments/assets/c3180064-29a1-4635-997a-c79407fafe34)
 
+
 6. Creation of Todo Item (Normal user):
+ 
    ![image](https://github.com/user-attachments/assets/2c5f5de8-7679-47c6-851c-2da791ff5472)
 
+
 7. Added Todo Item Successfully (Normal user):
+ 
    ![image](https://github.com/user-attachments/assets/46daa9fd-36a3-4556-82fd-c9fcc514a18d)
 
+
 8. Editing a Todo Item (Normal user):
+ 
    ![image](https://github.com/user-attachments/assets/d6b8e4d1-3da7-4012-b422-ad85e20300ae)
 
+
 9. Todo item edited successfully (Normal user):
+ 
     ![image](https://github.com/user-attachments/assets/41ffafa3-24d9-4f67-8ebb-e035bcb7e4fa)
 
+
 10. Deleting todo item (Normal user):
+  
     ![image](https://github.com/user-attachments/assets/0187a7e8-81c0-4510-948f-ca844dd9e7ce)
 
+
 11. Todo item deleted successfully (Normal user):
+  
     ![image](https://github.com/user-attachments/assets/bd6aa8d0-e130-428f-883f-934f72082001)
 
+
 12. Admin dashboard (Admin)
+  
     ![image](https://github.com/user-attachments/assets/23831f35-d644-4c3d-826a-21d07a009688)
+
 
 
 
